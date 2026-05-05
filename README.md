@@ -9,7 +9,7 @@
 
 ## 📦 一键下载
 
-👉 **[点此下载最新版 `.exe` 安装程序](https://github.com/hand12345/OpenClaw-/releases/download/v1.0.0/OpenClaw-0.4.0-portable.zip)**  
+👉 **[点此下载最新版 `.exe` 安装程序](https://github.com/hand12345/OpenClaw-/releases/download/v0.4.0-alpha.8/OpenClaw-0.4.0-alpha.8-win-x64.exe)**  
 无需任何环境配置，解压即用，绿色安全。
 
 ---
@@ -66,7 +66,7 @@
 
 ## 🚀 快速开始
 
-1. **下载**：从 [Releases](https://github.com/hand12345/OpenClaw-/releases/download/v1.0.0/OpenClaw-0.4.0-portable.zip) 下载 `OpenClaw_中文版`
+1. **下载**：从 [Releases](https://github.com/hand12345/OpenClaw-/releases/download/v0.4.0-alpha.8/OpenClaw-0.4.0-alpha.8-win-x64.exe) 下载 `OpenClaw_中文版`
 2. **安装**：双击运行，按提示完成安装（仅需 30 秒）
 3. **启动**：桌面或开始菜单找到“OpenClaw 中文版”图标
 4. **体验**：打开软件后，可直接在对话窗口提问，自动使用免费额度
@@ -133,4 +133,4 @@
 
 👉 **立即下载，开启你的 AI 赚钱之旅**
 
-[⬇️ 下载最新版 (Windows)](https://github.com/hand12345/OpenClaw-/releases/download/v1.0.0/OpenClaw-0.4.0-portable.zip)
+[⬇️ 下载最新版 (Windows)](https://github.com/hand12345/OpenClaw-/releases/download/v0.4.0-alpha.8/OpenClaw-0.4.0-alpha.8-win-x64.exe)
